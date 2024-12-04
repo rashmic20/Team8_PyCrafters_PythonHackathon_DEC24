@@ -1,1 +1,1 @@
-# Team8_PyCrafters_PythonHackathon_DEC24
+This project is a part of the Numpy Ninja Python Hackathon Dec 2024. The objective is to optimize the organ procurement process, find inefficiencies in current practice, and recommend actionable insights through data analyses
